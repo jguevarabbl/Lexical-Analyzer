@@ -1,6 +1,5 @@
 /*
  * parserInt.h
- * Spring 2023
 */
 
 #ifndef PARSEINT_H_
