@@ -1,2 +1,3 @@
-# Lexical-Analyzer
-Project contains Interpreter and parser as well
+PA1 -> Lexical Analyzer
+PA2 -> Parser
+PA3 -> Interpreter
