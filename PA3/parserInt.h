@@ -1,6 +1,5 @@
 /*
  * parserInt.h
- * Programming Assignment 3
  * Spring 2023
 */
 
